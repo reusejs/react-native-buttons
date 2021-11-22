@@ -1671,6 +1671,11 @@
   resolved "https://registry.yarnpkg.com/@react-native/polyfills/-/polyfills-2.0.0.tgz#4c40b74655c83982c8cf47530ee7dc13d957b6aa"
   integrity sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ==
 
+"@reusejs/react-utils@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@reusejs/react-utils/-/react-utils-0.0.8.tgz#2b411f079c261406267bc37076367689aebe33ab"
+  integrity sha512-PokP4C0b/GknchZzi66AZb9+m/Ogy0d0xJ9xFWYrPDgt4nmP4ejz+zauta/4fvhTK/FhBOi0FECtEolDbnwgcQ==
+
 "@rollup/plugin-babel@^5.3.0":
   version "5.3.0"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-babel/-/plugin-babel-5.3.0.tgz#9cb1c5146ddd6a4968ad96f209c50c62f92f9879"
