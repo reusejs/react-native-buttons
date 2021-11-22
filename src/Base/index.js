@@ -1,12 +1,5 @@
 import React from 'react';
-import {classNames} from '@reusejs/react-utils';
-import {
-  ActivityIndicator,
-  Text,
-  View,
-  TouchableHighlight,
-  Pressable,
-} from 'react-native';
+import {ActivityIndicator, Text, View, Pressable} from 'react-native';
 
 const Button = ({
   disabled = false,

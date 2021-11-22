@@ -1,3 +1,5 @@
-import Box from './Box';
+import Base from './Base';
+import Blue from './Blue';
+import Outline from './Outline';
 
-export {Box};
+export {Base, Blue, Outline};
